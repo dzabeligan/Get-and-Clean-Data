@@ -36,20 +36,6 @@ Description on how to create the tidy data file:
 5. appropriately label the data set with descriptive variable names.
 6. from the data set in step 5, create a second, independent tidy data set with the average of each variable for each activity and each subject.)/
 
-###Cleaning of the data
-Short, high-level description of what the cleaning script does. [link to the readme document that describes the code in greater detail]()
-
-##Description of the variables in the tiny_data.txt file
-General description of the file including:
- - Dimensions of the dataset
- - Summary of the data
- - Variables present in the dataset
-
-(you can easily use Rcode for this, just load the dataset and provide the information directly form the tidy data file)
-
-###Variable 1 (repeat this section for all variables in the dataset)
-Short description of what the variable describes.
-
 **activity**
 
 - *Values*: [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING]
